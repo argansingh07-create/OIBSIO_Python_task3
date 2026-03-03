@@ -32,6 +32,7 @@ The program then creates a unique and randomized password every time it runs.
 - Python 3
 - string module
 - random module
+- VS code
 
 ---
 
